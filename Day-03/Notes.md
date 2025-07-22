@@ -1,32 +1,32 @@
-## A resource is an instance of service
+- A resource is an instance of service
 
-## user request via jira to create vm to devops
+- user request via jira to create vm to devops
 
-## create vm -> add details -> create ---->> Azure Resource Manager ---> Resource(linux vm). 
+- create vm -> add details -> create ---->> Azure Resource Manager ---> Resource(linux vm). 
 
-## reply back to user
+- reply back to user
 
-## VM service we using to create VM resource
+- VM service we using to create VM resource
 
 
 GUI
 CLI
 API
 
-## resources manager: responsible for creating resources
+- resources manager: responsible for creating resources
 
 ## Mandatory Things
-## Resource Group: grouping of resources(vm+db or anything or combination of resources)
-## why and how to combine resources 
-## why -> because it is mandatory in azure, if you group means you can track courses of particular projects, allow you to manage the access, removing access, maintaing security standards
-## payment transaction UI --> devops --> each people request resources -> access permission security monitoring cost auditing
+- Resource Group: grouping of resources(vm+db or anything or combination of resources)
+- why and how to combine resources 
+- why -> because it is mandatory in azure, if you group means you can track courses of particular projects, allow you to manage the access, removing access, maintaing security standards
+- payment transaction UI --> devops --> each people request resources -> access permission security monitoring cost auditing
 
-## track as per project and enviornment
-## payment : dev qa prod
-## we create resource group per environment
-## grouping of resources can be done as per organizational standards
-## resource and resource group : 1:1
-## one resource can go in one resource group only
+- track as per project and enviornment
+- payment : dev qa prod
+- we create resource group per environment
+- grouping of resources can be done as per organizational standards
+- resource and resource group : 1:1
+- one resource can go in one resource group only
 
 #Subscription: 
 
