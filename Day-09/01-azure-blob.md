@@ -19,3 +19,15 @@
 4. Equivalent service in AWS:
 
     The equivalent service in AWS is Amazon Simple Storage Service (S3). S3 is also an object storage service designed for scalable and secure storage of objects, such as files and data.
+
+
+Azure provides
+high durability 99.99(11 9's) chances of data loss are very very low
+high performance services to make sure data quicly readable and writeble
+security - you can integrate resources/services with AD
+
+storage account
+1. blob
+2. file
+3. tables
+4. queues

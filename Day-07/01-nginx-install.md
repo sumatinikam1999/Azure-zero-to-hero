@@ -56,6 +56,14 @@ sudo systemctl restart nginx
 
 
 
+custom data - when you create vm it will get executed
+user data - persists with vm throughout it's lifecycle, it doesn't get executed while creation of vm, but file available all the time on vm
+
+
+
+
+
+
 
 
 
