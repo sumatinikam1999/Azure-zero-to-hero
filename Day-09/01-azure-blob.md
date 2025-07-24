@@ -31,3 +31,8 @@ storage account
 2. file
 3. tables
 4. queues
+
+
+user - role
+service principle you have to take care of securities
+managed identities - azure will take care - -  resources - resources
